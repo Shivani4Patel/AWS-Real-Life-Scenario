@@ -1,8 +1,7 @@
  
 
  
- 
-🌴 System Stabilization via Amazon EC2 for Island Resilience 
+ # System Stabilization via Amazon EC2 for Island Resilience 🌴 
 
 🎯 Objective 
 Quickly deploy a virtual server using Amazon EC2 to temporarily replace a failing computational module critical for stabilizing the island’s systems, ensuring continuous operation until hardware replacement arrives. 
