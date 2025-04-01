@@ -3,6 +3,8 @@
 ## 🎯 Objective
 The objective is to quickly deploy a virtual server using **Amazon EC2** to temporarily replace a failing computational module critical for stabilizing the island’s systems. This ensures continuous operation until a physical hardware replacement arrives.
 
+![image](https://github.com/user-attachments/assets/87cf36aa-bdbc-4846-99ba-ec3bdba44ba1)
+
 ---
 
 ## 🌟 Key Benefits of Amazon EC2 Deployment
