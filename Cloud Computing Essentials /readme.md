@@ -21,6 +21,8 @@ Migrate the city's **beach wave size prediction webpage** to **Amazon S3 Static 
 | 💰 Cost-Effective        | Pay-as-you-go, reduced maintenance costs.    |
 
 ---
+![image](https://github.com/user-attachments/assets/86b934b3-30a0-4f5c-b25c-fc6554f1cae1)
+
 
 ## ⚙️ Deployment Steps
 
