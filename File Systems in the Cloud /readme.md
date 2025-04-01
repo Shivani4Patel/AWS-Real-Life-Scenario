@@ -4,6 +4,8 @@
 Deploy a scalable, centralized file system (Amazon EFS) accessible by all branch servers to store and share pet client images and data — with proper access controls and high availability.
 
 ---
+![image](https://github.com/user-attachments/assets/acaf3280-9822-406e-bda9-bcec916e2e2d)
+
 
 ## ⚙️ Step-by-Step Implementation
 
