@@ -4,6 +4,8 @@
 Help Rusty Ketchum, the owner of the city's best gaming café, implement an **auto-healing server environment** and limit EC2 instance provisioning to manage gaming servers efficiently.
 
 ---
+![image](https://github.com/user-attachments/assets/defaf773-a3df-449b-8c53-a31f293b11c0)
+
 
 ## 🚩 Objectives
 - 🔄 **Auto-heal** game servers when instances fail.
