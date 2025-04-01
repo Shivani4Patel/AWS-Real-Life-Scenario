@@ -8,6 +8,9 @@ The city's surf shop wants a cost estimate for an architecture with variable ser
 - Calculate the cost of **Amazon EC2 web servers** ⚡.
 - Save and share your estimate 🌍.
 
+<img width="706" alt="image" src="https://github.com/user-attachments/assets/e05af39d-71b0-43f1-83df-a27592f023bf" />
+
+
 
 ## **AWS Pricing Calculator Steps** 🧮
 
