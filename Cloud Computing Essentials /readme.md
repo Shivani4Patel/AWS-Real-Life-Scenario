@@ -54,9 +54,9 @@ Test in browser to confirm webpage loads correctly.
  
  
 ✅ Final Outcome 
-✔️ Reliable & scalable wave prediction webpage. 
-✔️ Publicly accessible via S3 static website URL. 
-✔️ No server maintenance required — fully managed AWS solution. 
-✔️ Resilient to outages, ensuring continuous service for the community. 
+- ✔️ Reliable & scalable wave prediction webpage. 
+- ✔️ Publicly accessible via S3 static website URL. 
+- ✔️ No server maintenance required — fully managed AWS solution. 
+- ✔️ Resilient to outages, ensuring continuous service for the community. 
  
  
