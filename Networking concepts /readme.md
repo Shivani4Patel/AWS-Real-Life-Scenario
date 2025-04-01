@@ -5,6 +5,8 @@ The bank has migrated its services to AWS but is experiencing connectivity issue
 
 ## 🚀 Solution Approach
 
+![image](https://github.com/user-attachments/assets/34158256-3a95-4e64-892e-1827be14748f)
+
 To address the connectivity issues, we'll configure the following network components:
 - **Internet Gateway**: Allows communication between the VPC and the internet.
 - **Route Tables**: Ensures traffic is properly routed between the internet and EC2 instances.
