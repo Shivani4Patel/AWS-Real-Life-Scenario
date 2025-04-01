@@ -9,6 +9,8 @@ This project demonstrates the creation and management of a NoSQL database using 
 - Add records with a **dynamic schema** to the DynamoDB table.
 - Query the DynamoDB table to retrieve user viewing history.
 
+![image](https://github.com/user-attachments/assets/d9c93ddd-f067-4bc2-8e9d-297a939b8fca)
+
 ## Steps to Implement
 
 ### 1. Creating a DynamoDB Table
