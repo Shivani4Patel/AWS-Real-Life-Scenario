@@ -1,6 +1,6 @@
 # AWS Real Life Scenarios
 
-Welcome to the **AWS Real Life Scenarios** repository! This repository contains practical solutions and examples for various cloud computing challenges solved using Amazon Web Services (AWS). The scenarios range from core cloud computing concepts to highly available architectures, application scaling, networking, databases, and security best practices.
+Welcome to the **AWS Real Life Scenarios** repository! This repository contains practical solutions and examples for various cloud computing challenges (which i learned using AWS Skill builder  SimuLearn ) solved using Amazon Web Services (AWS). The scenarios range from core cloud computing concepts to highly available architectures, application scaling, networking, databases, and security best practices.
 
 This project serves as a guide for those looking to learn and implement AWS services in real-world environments.
 
