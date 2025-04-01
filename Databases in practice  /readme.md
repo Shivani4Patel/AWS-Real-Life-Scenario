@@ -5,6 +5,7 @@
 ### 🚨 Challenge:
 - Database Administrators (DBAs) overloaded with operational tasks (patching, managing infrastructure).
 - Need improved availability, performance, and disaster recovery solutions.
+![image](https://github.com/user-attachments/assets/570d1457-d2b8-40ec-a636-aa67a240e07a)
 
 ---
 
