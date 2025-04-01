@@ -81,7 +81,7 @@ Scenarios Covered
 How to Use
 
 ### Clone the repository:
-git clone https://github.com/Shivani4Patel/AWS-real-life-scenario.git
+git clone git@github.com:Shivani4Patel/AWS-real-life-scenario-.git
 Navigate to the scenario of your choice:
 Each folder contains a specific scenario with detailed instructions and configurations.
 Follow the README inside each scenario folder to understand how to implement the solution step by step.
