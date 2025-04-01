@@ -4,6 +4,7 @@
 Establish an IAM user group and user account to ensure consistent, secure, and efficient access for all Support Engineers to AWS Management Console and developer tools, with read-only permissions for EC2 and RDS.
 
 ---
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/cdc27ca5-94e6-47bb-bc72-e0db041233b5" />
 
 ## ⚙️ Step-by-Step Implementation
 
