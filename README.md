@@ -34,7 +34,6 @@ AWS-real-life-scenario/
 │
 ├── Auto healing and scaling application/
 │   └── README.md
-│   └── [additional resources]
 │
 ├── Cloud Computing Essentials/
 │   └── README.md
