@@ -62,7 +62,7 @@ AWS-real-life-scenario/
 └── Quick Setup of Amazon EC2 for Emergency Computational Support/
     └── EC2readme.md
 ```
-Scenarios Covered
+## Scenarios-Covered
 
 ## Here is a list of the key real-life scenarios covered in this repository:
 
@@ -77,14 +77,15 @@ Scenarios Covered
 - Networking Concepts: Configure VPC, route tables, and security to enable secure, scalable networking in AWS.
 - Quick Setup of Amazon EC2 for Emergency Computational Support: Set up EC2 instances to temporarily replace failing computational modules.
 
-How to Use
+## how-to-use 
 
 ### Clone the repository:
 
 - Navigate to the scenario of your choice:
 - Each folder contains a specific scenario with detailed instructions and configurations.
 Follow the README inside each scenario folder to understand how to implement the solution step by step.
-License
+
+## license
 
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
